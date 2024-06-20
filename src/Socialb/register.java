@@ -37,8 +37,8 @@ public class register {
 		}catch(Exception error) {
 			System.out.println(error);
 		}finally {
-//			driver.quit();
+//		driver.quit();
 		}
+		
 	}
-
 }
